@@ -5,3 +5,5 @@ desc: ''
 updated: 1662399163995
 created: 1662399163995
 ---
+
+[Collection of SQL tools (formatter, validator, data generator, and playgrounds)](https://sqlable.com/)
